@@ -1,7 +1,7 @@
 esto es una prueba.
-<<<<<<< HEAD
+
 estoy escribiendo en branch local.
-=======
+
 estoy escribiendo en remoto .
 estoy escribiendo en remoto, por 2º vez.
->>>>>>> 8d34d3050f79d92b5c6f59a197fbfe8f5652daae
+
