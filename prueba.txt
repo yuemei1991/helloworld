@@ -24,4 +24,8 @@ estoy escribiendo en local 6 vez.
 <<<<<<< HEAD
 estoy escribiendo en local yuemei branch 1 vez.
 estoy escribiendo en local yuemei branch 2vez.
+<<<<<<< HEAD
 estoy escribiendo en remoto master, por 12 vez.
+=======
+estoy escribiendo en remoto, branch readme edit por 1 vez.
+>>>>>>> origin/readme-edit
