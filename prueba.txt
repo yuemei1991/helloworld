@@ -12,4 +12,8 @@ estoy escribiendo en remoto, por 6ºvez.
 
 estoy escribiendo en remoto, por 7ºvez.
 
+<<<<<<< HEAD
 estoy escribiendo en local 3 vez.
+=======
+estoy escribiendo en remoto, por 8 vez.
+>>>>>>> 86a308eeba0362d4eff77110de41be99e924e498
