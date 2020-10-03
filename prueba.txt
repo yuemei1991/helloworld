@@ -2,4 +2,7 @@
 
 estoy escribiendo en branch local para mergen.
 
-añadir linea 3 en local
+añadir linea 2 en local
+
+añadir linea 3 en romoto
+
