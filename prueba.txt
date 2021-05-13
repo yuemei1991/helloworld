@@ -1,11 +1,4 @@
-﻿esto es una prueba.
+﻿esto es una prueba99.
 
-estoy escribiendo en branch local para mergen.
 
-añadir linea 2 en local
-
-añadir linea 3 en romoto
-
-commit s
-
-commit sin s
+este frase es festivo.
